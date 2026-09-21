@@ -1,6 +1,6 @@
 # Trial Render Evaluation — 2026-08-02 to 2026-08-04
 
-**Status:** visual trial completed  
+**Status:** APPROVED  
 **Format:** A3 landscape spread (A4 portrait x 2)  
 **Trial spreads:** 5
 
@@ -63,3 +63,11 @@ P0235は仏教美術の補助写真としてのみ使用し、White Tara / Green
 - White Tara / Green Taraの明確な作品写真が別途見つかるか
 - 見開きのタイトル・色・書体・キャプション密度の好み
 - 15日全体へ展開するときの統一スタイル
+
+
+## Human approval
+
+2026-09-21: 人間が「このレイアウトでよい」と承認。
+
+試作レイアウト評価はここで終了する。
+今後は `style-guide.md` を基準として本制作へ展開し、再評価条件に該当した場合のみ見直す。
