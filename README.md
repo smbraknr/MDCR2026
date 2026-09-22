@@ -21,10 +21,11 @@
 - `finance/`: 予算、現金、カード
 - `shopping/`: 現地での買い物リスト
 - `emergency/`: 緊急連絡先
+- `travelogue/`: 旅行後の旅行記・写真選定・アルバム冊子制作
 
 ## 情報源
 
 - Touratech Japan「Mongolia Desert Challenge Rally 2026 総合案内資料」（2026年2月吉日、全11ページ）
 - 予約先からの確認メールおよび本人確認情報
 
-最終更新: 2026-08-01
+最終更新: 2026-09-20
